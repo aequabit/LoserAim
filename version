@@ -1,0 +1,1 @@
+170,BaseWeaponGetInaccuracy,482,BaseWeaponUpdateAccuracyPenalty,483,BaseWeaponGetWeaponInfo,460,BaseEntitySetModelIndex,75,BaseEntityGetAbsOrigin,10,BaseEntityGetRenderBounds,17,BaseEntitySetupBones,13,BaseEntityGetModel,8,BaseEntityUpdateClientSideAnimation,223,BaseEntityGetSpread,452,BaseEntityGetAbsAngles,11,BaseEntityDrawModel,9,BaseEntityGetClientClass,2
